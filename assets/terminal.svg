@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230">
+  <defs>
+    <style>
+      .t  { font: 16px 'Fira Code', Consolas, monospace; }
+      .p  { fill: #38bdf8; }
+      .k  { fill: #a78bfa; }
+      .v  { fill: #e2e8f0; }
+      .c  { fill: #64748b; }
+      .ln { opacity: 0; }
+    </style>
+    <clipPath id="type1"><rect x="40" y="70" height="26" width="0"><animate attributeName="width" values="0;640;640" keyTimes="0;.35;1" dur="2.4s" begin="0.4s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect width="760" height="230" rx="14" fill="#0b1120" stroke="#1e293b"/>
+  <rect width="760" height="36" rx="14" fill="#111827"/>
+  <rect y="22" width="760" height="14" fill="#111827"/>
+  <circle cx="24" cy="18" r="6" fill="#f87171"/>
+  <circle cx="44" cy="18" r="6" fill="#fbbf24"/>
+  <circle cx="64" cy="18" r="6" fill="#34d399"/>
+  <text x="380" y="23" text-anchor="middle" class="t c" font-size="13">meiram@kaznu: ~</text>
+
+  <text class="t" x="40" y="88" clip-path="url(#type1)"><tspan class="p">❯ </tspan><tspan class="v">whoami --verbose</tspan></text>
+
+  <g class="ln"><animate attributeName="opacity" from="0" to="1" dur=".4s" begin="1.6s" fill="freeze"/>
+    <text class="t" x="40" y="120"><tspan class="k">role   </tspan><tspan class="v">Laboratory Assistant &amp; Researcher</tspan></text>
+  </g>
+  <g class="ln"><animate attributeName="opacity" from="0" to="1" dur=".4s" begin="2.1s" fill="freeze"/>
+    <text class="t" x="40" y="146"><tspan class="k">lab    </tspan><tspan class="v">AI Engineering &amp; Developers Lab, KazNU</tspan></text>
+  </g>
+  <g class="ln"><animate attributeName="opacity" from="0" to="1" dur=".4s" begin="2.6s" fill="freeze"/>
+    <text class="t" x="40" y="172"><tspan class="k">study  </tspan><tspan class="v">Computer Engineering, 4th year</tspan></text>
+  </g>
+  <g class="ln"><animate attributeName="opacity" from="0" to="1" dur=".4s" begin="3.1s" fill="freeze"/>
+    <text class="t" x="40" y="198"><tspan class="k">focus  </tspan><tspan class="v">Speech AI · Machine Learning · Django</tspan></text>
+  </g>
+
+  <rect x="40" y="206" width="10" height="3" fill="#38bdf8" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" begin="3.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

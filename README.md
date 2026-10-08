@@ -1,7 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Meirambek%20Shaimerden&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%C2%B7%20AI%20%26%20Web%20Developer&descAlignY=58&descSize=16" width="100%"/>
-
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Laboratory+Assistant+%26+Researcher+%40+KazNU;AI+Engineering+%26+Developers+Lab;Speech+AI+%C2%B7+ML+%C2%B7+Django+%C2%B7+Full-stack" alt="Typing SVG" /></a>
+  <img src="assets/header.svg" width="100%" alt="Meirambek Shaimerden"/>
 </p>
 
 <p align="center">
@@ -9,7 +7,11 @@
   <a href="mailto:mikoshaimerden5015@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+<p align="center">
+  <img src="assets/terminal.svg" width="640" alt="whoami"/>
+</p>
+
+<img src="assets/divider.svg" width="100%"/>
 
 ### About me
 
@@ -19,13 +21,17 @@
 - Hackathon participant (Shakarim Solveathon)
 - Almaty, Kazakhstan · born in Shymkent
 
+<img src="assets/divider.svg" width="100%"/>
+
 ### Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,pytorch,js,ts,html,css,tailwind,vite,java,sqlite,git,github,vscode&perline=14" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,pytorch,js,ts,html,css,tailwind,vite,java,sqlite,git,github,vscode&perline=7" />
 </p>
 
-**AI / ML:** PyTorch · faster-whisper · librosa · Claude API · Groq
+<p align="center"><b>AI / ML:</b> PyTorch · faster-whisper · librosa · Claude API · Groq</p>
+
+<img src="assets/divider.svg" width="100%"/>
 
 ### Featured projects
 
@@ -38,4 +44,4 @@
 | [**University System**](https://github.com/MeiramALu/university_system) | University management platform | Django |
 | [**Solveathon Backend**](https://github.com/MeiramALu/solveathon-backend) | Backend for Task 2 of Shakarim's Solveathon hackathon | Python · Django |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
