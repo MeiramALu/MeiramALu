@@ -19,7 +19,7 @@
 - **Laboratory Assistant & Researcher** — *AI Engineering & Developers Lab*, Department of Computer Science, KazNU
 - Working on **speech AI, machine learning and LLM-powered web systems**
 - Hackathon participant (Shakarim Solveathon)
-- Almaty, Kazakhstan · born in Shymkent
+- Almaty, Kazakhstan
 
 <img src="assets/divider.svg" width="100%"/>
 
